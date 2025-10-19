@@ -1,2 +1,3 @@
-# wp-ticket-bot
+# 100 Starda Sizlerle 😂😁😝
+ 
 Whatsapp entegreli discord ticket botu
